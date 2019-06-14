@@ -1,0 +1,69 @@
+Script started on 2019-06-14 09:52:10+0900
+]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ openssl s_client  
+-crlf -conned[Kct www.konedenshi.ac.jp:443
+140052851003840:error:20087002:BIO routines:BIO_lookup:system lib:../crypto/bio/b_addr.c:693:Name or service not known
+connect:errno=2
+]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ GET \[K/ HTTP/1,[K.p[K0
+<HTML>
+<HEAD>
+<TITLE>Directory /</TITLE>
+<BASE HREF="file:/">
+</HEAD>
+<BODY>
+<H1>Directory listing of /</H1>
+<UL>
+<LI><A HREF="./">./</A>
+<LI><A HREF="../">../</A>
+<LI><A HREF="bin/">bin/</A>
+<LI><A HREF="boot/">boot/</A>
+<LI><A HREF="dev/">dev/</A>
+<LI><A HREF="etc/">etc/</A>
+<LI><A HREF="home/">home/</A>
+<LI><A HREF="init">init</A>
+<LI><A HREF="lib/">lib/</A>
+<LI><A HREF="lib64/">lib64/</A>
+<LI><A HREF="media/">media/</A>
+<LI><A HREF="mnt/">mnt/</A>
+<LI><A HREF="opt/">opt/</A>
+<LI><A HREF="proc/">proc/</A>
+<LI><A HREF="root/">root/</A>
+<LI><A HREF="run/">run/</A>
+<LI><A HREF="sbin/">sbin/</A>
+<LI><A HREF="snap/">snap/</A>
+<LI><A HREF="srv/">srv/</A>
+<LI><A HREF="sys/">sys/</A>
+<LI><A HREF="tmp/">tmp/</A>
+<LI><A HREF="usr/">usr/</A>
+<LI><A HREF="var/">var/</A>
+</UL>
+</BODY>
+</HTML>
+<!doctype html><html lang="en"><head><meta http-equiv="content-type" content="text/html;charset=utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon"><title></title><script src="https://www.google.com/adsense/domains/caf.js" type="text/javascript"></script><noscript><style>#content-main{display:none}</style><div>For full functionality of this site it is necessary to enable JavaScript. Here are the <a target="_blank" href="https://www.enable-javascript.com/">instructions how to enable JavaScript in your web browser</a>.</div></noscript></head><body><div id="contentMain"></div><script type="text/javascript" src="https://d1hi41nc56pmug.cloudfront.net/static/js/main.21a897ba.js"></script></body></html>]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ exit
+exit
+
+Script done on 2019-06-14 09:53:17+0900
+html lang="en"><head><meta http-equiv="content-type" content="text/html;charset=utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon"><title></title><script src="https://www.google.com/adsense/domains/caf.js" type="text/javascript"></script><noscript><style>#content-main{display:none}</style><div>For full functionality of this site it is necessary to enable JavaScript. Here are the <a target="_blank" href="https://www.enable-javascript.com/">instructions how to enable JavaScript in your web browser</a>.</div></noscript></head><body><div id="contentMain"></div><script type="text/javascript" src="https://d1hi41nc56pmug.cloudfront.net/static/js/main.21a897ba.js"></script></body></html>]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ exit
+exit
+Script done, file is kd.txt
+]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ code.[K .
+'C:\Users\osuka\AppData\Local\Programs\Microsoft' is not recognized as an internal or external command,
+
+operable program or batch file.
+
+]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ 
+[K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[ing-http-message[00m$ [K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ [K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ [K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/learning-http-message[01;32mtakumi@LAPTOP-5PBBKQAO[00m:[01;34m~/fujiwara/learning-http-message[00m$ [K]0;takumi@LAPTOP-5PBBKQAO: ~/fujiwara/le
